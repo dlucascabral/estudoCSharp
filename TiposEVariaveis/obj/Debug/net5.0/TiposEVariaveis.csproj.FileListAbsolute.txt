@@ -1,0 +1,16 @@
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\TiposEVariaveis.exe
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\TiposEVariaveis.deps.json
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\TiposEVariaveis.runtimeconfig.json
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\TiposEVariaveis.runtimeconfig.dev.json
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\TiposEVariaveis.dll
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\ref\TiposEVariaveis.dll
+D:\estudoCSharp\TiposEVariaveis\bin\Debug\net5.0\TiposEVariaveis.pdb
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.csprojAssemblyReference.cache
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.AssemblyInfoInputs.cache
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.AssemblyInfo.cs
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.csproj.CoreCompileInputs.cache
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.dll
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\ref\TiposEVariaveis.dll
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.pdb
+D:\estudoCSharp\TiposEVariaveis\obj\Debug\net5.0\TiposEVariaveis.genruntimeconfig.cache
