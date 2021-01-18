@@ -1,0 +1,16 @@
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.exe
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.deps.json
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.runtimeconfig.json
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.runtimeconfig.dev.json
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.dll
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\ref\InterfaceExercise.dll
+D:\estudoCSharp\InterfaceExercise\bin\Debug\net5.0\InterfaceExercise.pdb
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.csprojAssemblyReference.cache
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.AssemblyInfoInputs.cache
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.AssemblyInfo.cs
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.dll
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\ref\InterfaceExercise.dll
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.pdb
+D:\estudoCSharp\InterfaceExercise\obj\Debug\net5.0\InterfaceExercise.genruntimeconfig.cache
