@@ -19,6 +19,8 @@ namespace ClassesParte2
         public static void ExibeAnimal(Animal animal) {
             Console.WriteLine($"Nome: {animal.Nome}");
             Console.WriteLine($"Idade: {animal.Idade}");
+            Console.WriteLine($"Som emitido: {animal.SomEmitido}");
+            Console.WriteLine($"Locomoção: {animal.Locomocao}");
         }
     }
 }
