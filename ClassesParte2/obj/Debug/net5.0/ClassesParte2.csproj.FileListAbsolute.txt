@@ -1,0 +1,16 @@
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.csprojAssemblyReference.cache
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.AssemblyInfoInputs.cache
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.AssemblyInfo.cs
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.csproj.CoreCompileInputs.cache
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ClassesParte2.exe
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ClassesParte2.deps.json
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ClassesParte2.runtimeconfig.json
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ClassesParte2.runtimeconfig.dev.json
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ClassesParte2.dll
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ref\ClassesParte2.dll
+D:\estudoCSharp\ClassesParte2\bin\Debug\net5.0\ClassesParte2.pdb
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.dll
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ref\ClassesParte2.dll
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.pdb
+D:\estudoCSharp\ClassesParte2\obj\Debug\net5.0\ClassesParte2.genruntimeconfig.cache
